@@ -24,6 +24,6 @@ We also have some Open Projects(OP) for Bsc students including object detection 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/uav.jpg){: style="width: 25%; float: left; margin: 0px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/ugv.jpg){: style="width: 25%; float: left; margin: 0px"}
-![]({{ site.url }}{{ site.baseurl }}/images/respic/qpp.jpg){: style="width: 20%; float: left; margin: 0px"}
+
 
 ### ... and more.
