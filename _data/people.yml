@@ -26,10 +26,20 @@
   number_educ: 1
   education1: Bsc with Changchun University of Science and Technology
 
+- name: "C-max(Pang Pang)"
+  photo: cvpp.jpg
+  info: our Max! 
+  email: allexcapshow@cust.edu.cn
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.alexcapshow.com/openings">openings</a> for more info
-  email: alexcapshow@gmail.com
+  email: alexcapshow@cust.edu.cn
   number_educ: 0
   education1:
   education2:
