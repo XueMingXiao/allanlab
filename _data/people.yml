@@ -1,4 +1,4 @@
-- name: Hannan Xu
+- name: Haonan Xu
   photo: xx.png
   info: BSC student, team leader, started Oct 2021
   email: xx@cust.edu.cn
@@ -33,7 +33,7 @@
   number_educ: 1
   education1: Bsc with Changchun University of Science and Technology
 
-- name: Keshik
+- name: Daochun Dong
   photo: xx.png
   info: BSC student, algorithm, started Oct 2021
   email: xxx@cust.edu.cn
@@ -47,14 +47,14 @@
   number_educ: 1
   education1: Bsc with Changchun University of Science and Technology
 
-- name: Hongtian Ren
+- name: Tianhong Xia
   photo: xxx.png
   info: BSC student, algorithm, started Oct 2021
   email: xxx@cust.edu.cn
   number_educ: 1
   education1: Bsc student with Changchun University of Science and Technology
 
-- name: Yu Gu
+- name: Lutong Li
   photo: xxx.jpg
   info: BSC student, algorithm, started Oct 2021
   email: xxx@cust.edu.cn
@@ -68,14 +68,14 @@
   number_educ: 1
   education1: Bsc with Changchun University of Science and Technology
 
-- name: Zhi Bu
+- name: Haoda Wang
   photo: xxx.png
   info: BSC student, algorithm, started Oct 2021
   email: xxx@cust.edu.cn
   number_educ: 1
   education1: Bsc student with Changchun University of Science and Technology
 
-- name: Shi Fu
+- name: Yaobo Fu
   photo: xxx.jpg
   info: BSC student, algorithm, started Oct 2021
   email: xxx@cust.edu.cn
