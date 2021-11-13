@@ -1,7 +1,7 @@
 ---
-title: "CVIR Lab - Home"
+title: "CVIR Rm - Home"
 layout: homelay
-excerpt: "CVIR Lab at CUST."
+excerpt: "CVIR Rm at CUST."
 sitemap: false
 permalink: /
 ---
