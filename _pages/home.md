@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group as a part of Optoelectronic Measurement and Analysis Center at the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/). Our aim is to explore and understand the computer vision issues associated with robots. Research in this group mainly concerned with solving problems that require a mixture of computer vision, mechanics and robots to adapt to unknown and dynamic situations, especially the outspace and planetary environment, and boost collaboration between people and devices.
+We are robomaster team CVIR at the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/). Our aim is to explore and understand the computer vision issues associated with robots and take part in the robotic competitions mainly the Robomaster. .
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -46,11 +46,11 @@ We are a dynamic research group as a part of Optoelectronic Measurement and Anal
 
 
 
-To this end, we develop novel methods to detect objects on Mars for the rovers. We want to be able to build the perfect techniques to address the scientific questions we deem most important (see [Research](research)).
+To this end, we develop novel methods to detect objects on our rover. We want to be able to build the perfect techniques to address the scientific questions we deem most important (see [Research](research)).
 
-We are located at CUST, the birthplace of optical engineering in China. As a part of part of Optoelectronic Measurement and Analysis Center, we exchange ideas and work with our colleagues on tpoics like Bionic optics, Bionic robot and Computational imaging, as well as other interesting yet challenging topics.
+We are located at CUST, the birthplace of optical engineering in China. As a team, we exchange ideas and work with each other on tpoics like Bionic optics, Bionic robot and Computational imaging, as well as other interesting yet challenging topics.
 
- **We are looking for passionate new Lecturer, Master and Undergrate students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ **We are looking for passionate new undergrate students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 <figure class="forth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cust-logo.png" style="width: 90px">
