@@ -1,27 +1,27 @@
 - name: Xueming Xiao
   photo: ygfu.png
-  info: Assistant 
-  email: fuyg@cust.edu.cn
+  info: Assistant professor
+  email: alexcapshow@cust.edu.cn
   number_educ: 1
-  education1: PhD, Changchun University of Science and Technology(CUST)  
+  education1: PhD, Harbin Institute of Technology
 
 - name: Yunjie Teng
   photo: lzhang.png
-  info: Professor, Deputy director of Key Laboratory of Ministry of Education
-  email: zhangl@cust.edu.cn
+  info: Assistant professor
+  email: yunjieteng@cust.edu.cn
   number_educ: 1
   education1: PhD, Changchun University of Science and Technology(CUST)
 
 - name: Wenbo Jing
   photo: lzhang.png
-  info: Professor, Deputy director of Key Laboratory of Ministry of Education
-  email: zhangl@cust.edu.cn
+  info: Associate Professor
+  email: wenbojing@cust.edu.cn
   number_educ: 1
   education1: PhD, Changchun University of Science and Technology(CUST)
   
 - name: Ru Zheng
   photo: lzhang.png
-  info: Professor, Deputy director of Key Laboratory of Ministry of Education
+  info: Assistant professor
   email: zhangl@cust.edu.cn
   number_educ: 1
   education1: PhD, Changchun University of Science and Technology(CUST)
