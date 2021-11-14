@@ -1,7 +1,7 @@
 ---
-title: "Process"
+title: "Meetings and processes"
 layout: textlay
-excerpt: "Process"
+excerpt: "Meetings and processes"
 sitemap: false
 permalink: /group_meeting/
 ---
@@ -10,7 +10,7 @@ permalink: /group_meeting/
 
 Group meetings are held every other week every week.
 
-The normal time/place for Group meetings is Tues. 9:30-11:00 in 502 rom.
+The normal time/place for Group meetings is Tues. 9:30-11:00 in 502 room.
 
 <b>Schedule is subject to change, please check frequently. </b>
 
