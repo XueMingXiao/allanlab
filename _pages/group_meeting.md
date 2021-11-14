@@ -1,5 +1,5 @@
 ---
-title: "Group meeting"
+title: "Process"
 layout: textlay
 excerpt: "Group meeting"
 sitemap: false
