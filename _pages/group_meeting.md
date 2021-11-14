@@ -1,7 +1,7 @@
 ---
-title: "Meetings and processes"
+title: "Meetings and Processes"
 layout: textlay
-excerpt: "Meetings and processes"
+excerpt: "Meetings and Processes"
 sitemap: false
 permalink: /group_meeting/
 ---
