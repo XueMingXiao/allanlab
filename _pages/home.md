@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are robomaster team CVIR at the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/). Our aim is to explore and understand the computer vision issues associated with robots and take part in the robotic competitions mainly the Robomaster. .
+## To be the best engineer ##
+
+We are the robomaster team CVIR on behalf of the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/). Our aim is to explore and understand the computer vision issues associated with robots and take part in the robotic competitions mainly the Robomaster. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -46,7 +48,7 @@ We are robomaster team CVIR at the [Changchun Uinveristy of Science and Technolo
 
 
 
-To this end, we develop novel methods to detect objects on our rover. We want to be able to build the perfect techniques to address the scientific questions we deem most important (see [Research](research)).
+To this end, we develop novel methods to detect objects on our rover. We want to be able to build the perfect techniques to address the scientific questions we deem most important. 
 
 We are located at CUST, the birthplace of optical engineering in China. As a team, we exchange ideas and work with each other on tpoics like Bionic optics, Bionic robot and Computational imaging, as well as other interesting yet challenging topics.
 
