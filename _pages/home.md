@@ -58,5 +58,5 @@ We are located at CUST, the birthplace of optical engineering in China. As a tea
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cust-logo.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/oe.png" style="width: 250px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cvirlogofill.jpg" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/teamlogo1.png" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/teamlogo2.png" style="width: 100px">
 </figure>
