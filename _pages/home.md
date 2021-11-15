@@ -30,7 +30,7 @@ We are robomaster team CVIR at the [Changchun Uinveristy of Science and Technolo
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hero.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rc1.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/itemfight.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
