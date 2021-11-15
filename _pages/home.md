@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-## To be the best engineer ##
 
-We are the robomaster team CVIR on behalf of the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/). Our aim is to explore and understand the computer vision issues associated with robots and take part in the robotic competitions mainly the Robomaster. 
+We are the robomaster team CVIR on behalf of the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/). Our aim is to explore and understand the computer vision issues associated with robots and take part in the robotic competitions mainly the Robomaster, and **to be the best engineer!**
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -32,7 +32,7 @@ We are the robomaster team CVIR on behalf of the [Changchun Uinveristy of Scienc
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hero.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/itemfight.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/itemfight1.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -52,7 +52,7 @@ To this end, we develop novel methods to detect objects on our rover. We want to
 
 We are located at CUST, the birthplace of optical engineering in China. As a team, we exchange ideas and work with each other on tpoics like Bionic optics, Bionic robot and Computational imaging, as well as other interesting yet challenging topics.
 
- **We are looking for passionate new undergrate students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**We are looking for passionate new undergrate students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 <figure class="forth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cust-logo.png" style="width: 90px">
