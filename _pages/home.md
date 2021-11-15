@@ -27,7 +27,7 @@ We are robomaster team CVIR at the [Changchun Uinveristy of Science and Technolo
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/warplace.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/twostage.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hero.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rc1.png" alt="Slide 3" />
