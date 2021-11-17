@@ -77,7 +77,7 @@ Jump to [Senior staff](#Senior-staff), [Consultant](#Consultant) [staff](#staff)
 
 ## Consultant
 {% assign number_printed = 0 %}
-{% for member in site.data.senior_people %}
+{% for member in site.data.consultant %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
