@@ -11,7 +11,7 @@ permalink: /people/
  **We are  looking for new students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-Jump to [Senior staff](#Senior-staff), [Consultant](#Consultant) [staff](#staff), [former members](#former-team-members).
+Jump to [Senior staff](#Senior-staff), [Consultant](#consultant), [staff](#staff), [former members](#former-team-members).
 
 ## Senior staff
 {% assign number_printed = 0 %}
